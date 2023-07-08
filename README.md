@@ -2,13 +2,9 @@
 
 NodeJS, Express, EJS Template, Mongoose using these we perfrom **CRUD** operation in this project.
 
-# Steps to run the application
-
-- Step 1: Open the app in vs code. 
-- Step 2: Pull the repository
-- Step 3: Install npm using command : npm install
-- Step 4: Run the application using command : npm start 
-- Step 5: Open any web browser type : localhost:8000
 
 
+
+
+![Contact](https://github.com/2suRaj22/Contact-List/assets/118765700/a41b40f2-dfa2-4f3f-9fd9-e766700fdc9c)
 
